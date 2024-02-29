@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshan35" alt="oshan35" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nehara831" alt="Nehara831" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [(https://github.com/Nehara831)](https://github.com/Nehara831)
 
